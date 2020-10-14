@@ -1,0 +1,32 @@
+div.display{
+    border:solid 2px black;
+    border-radius: 16px;
+    position: relative;
+    width:30%;
+    height:190px;
+    left:32%;
+    
+}
+
+div.title{
+    position: relative;
+    width:100%;
+    border-radius: 16px;
+    left:10px;
+}
+
+a.link{
+    border:solid 2px black;
+    border-radius: 16px;
+    background-color: steelblue;
+    color:white;
+    position: relative;
+    left:200px;
+    bottom:50px;
+    width:25%;
+}
+
+img.pic{
+    border:solid 4px black;
+    border-radius: 6px;
+}
